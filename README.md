@@ -1,3 +1,3 @@
 # hello-world
-Я изучаю основы программирования
-readme-edits создание ветки
+I'm learning the basics of programming
+readme-edits 
